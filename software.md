@@ -40,6 +40,7 @@ outline: [1,2]
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
   - [Neko](https://github.com/nekomangaorg/Neko)
   - [Yokai](https://github.com/null2264/yokai)
+  - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/KotatsuApp/Kotatsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
@@ -86,9 +87,6 @@ outline: [1,2]
 - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
 - [Anime Boxes](https://www.animebox.es/)
 
-
-## Others
-- [Tachisync](https://github.com/axiel7/Tachisync) 
 
 ![](/banner/ios.png)
 
@@ -208,9 +206,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [ADL](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 
 ::: details More
-- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Simple" installation</li><li>Crunchyroll account required, Premium if you want all the anime available</li><li>No streaming, only download</li></ul></tooltip>
-- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:<tooltip><ul><li>Straightforward UI</li><li>Easy to use</li><li>Crunchyroll account required if you want premium content</li><li>About the same functionality as Crunchy-cli</li><li>No streaming, only download</li></ul></tooltip>
-
+- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :ic-baseline-window:
+- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:
 :::
 
 ### Manga
@@ -246,7 +244,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
-- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
 - **Plex**
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
   - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
@@ -326,8 +323,14 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Other Tools
-- [nyaa](https://github.com/Beastwick18/nyaa)
-- [Koneko](https://github.com/irevenko/koneko)
+- [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
+- **For Android**
+  - [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
+  - [Tachisync](https://github.com/axiel7/Tachisync)
+- **[Nyaa](https://nyaa.si/) Tools**
+  - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
+  - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
+  - [Koneko](https://github.com/irevenko/koneko)
 
 
 ## Hosting
