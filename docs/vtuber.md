@@ -124,3 +124,22 @@ og:
 - [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi)  
 - [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)  
 - [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
+
+
+## Others
+
+### Animation
+
+| Channel | Style | Group |
+|---------|-------|-------|
+| [2ManySnacks](https://www.youtube.com/@2ManySnacks) :s: | 2D | Hololive |
+| [Aka Mushi](https://www.youtube.com/@akamushi3d) | 3D | Hololive |
+| [ChegiCH](https://www.youtube.com/@chegichannel/) | 3D | Hololive |
+| [H and Mr.H](https://www.youtube.com/@HandMrH) | 2D | General |
+| [Kanauru](https://www.youtube.com/@kanauru) :s: | 3D | General |
+| [meuol](https://www.youtube.com/@meuol) | 2D | Hololive |
+| [Moonia](https://www.youtube.com/@BloodyMoonia/) | 2D | Hololive |
+| [Reiruka れいるか](https://www.youtube.com/@reiruka/) | 2D | Hololive |
+| [Terrible Joe](https://www.youtube.com/@TerribleJhoe) | 3D | Hololive |
+| [tives](https://www.youtube.com/@tivetives/) | 3D | Hololive |
+| [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) <Badge type="tip" text="EN Sub" link="https://www.youtube.com/@Tripl3en" /> | 2D | Hololive |
