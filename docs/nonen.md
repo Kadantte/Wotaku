@@ -101,7 +101,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
-  - [HKanime](https://www.hkanime.com/) :flag-hong-kong-sar-china:
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](http://www.yinghuacd.com/)
@@ -484,7 +483,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
-- [Wbijam](https://web.archive.org/web/20241001185535/https://www.wbijam.pl/)
 
 ### Software
 
