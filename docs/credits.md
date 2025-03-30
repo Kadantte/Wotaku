@@ -30,6 +30,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 |-|-|-|
 | **三萬筒 (30kton)** | [Have you seen AO-chan?](https://www.pixiv.net/en/artworks/110412826) | [Default banner](/faq#general) |
 | **6y9brows** | [My life will one day be colorful](https://6y9brows.tumblr.com/post/668069737059713024/my-life-will-one-day-be-colorful) | Art link embed |
+| **あまねこそら (Amane Sora)** | [おてんば兎の大宴会](https://donmai.moe/posts/6008236) | VTuber Link Embed |
 | **ATLUS** | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura) | [Music banner](/music#utility-sites) |
 | **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/qs#anime) |
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
@@ -62,7 +63,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
 | **れんた (Renta)** | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418) | [Audio glossary banner](/glossary/audio#hardware-1) |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
-| **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | [Vtuber banner](/misc#vtuber) |
 | **さめあんこ (Sameanko)** | [:cat: :shark: :bathtub: :sparkles:](https://www.pixiv.net/en/artworks/93131457) | [Home art](/) |
 | **SHAFT** | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime) | [Music banner](/music#download) |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
@@ -100,6 +100,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
+| **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | Vtuber banner |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |

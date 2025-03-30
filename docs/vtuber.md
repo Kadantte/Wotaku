@@ -1,0 +1,126 @@
+---
+title: VTuber
+description: Sui-chan wa~
+og:
+    image: https://files.catbox.moe/jhb2ca.png
+
+---
+
+<GradientCard title="VTuber" description="Sui-chan wa~" theme="turquoise" variant="thin"/>
+
+## General
+
+| Category  | Websites |
+|-----------|----------|
+| Fan Projects | [Holodex](https://holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Holodex) |
+| ^^           | [Amatsukaze](https://amatsukaze.rl404.com/) [:gh:](https://github.com/rl404/amatsukaze) |
+| Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
+| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
+| ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
+| ^^         | [Sakura ASMR Archive](https://stash.frostedsakura.my.id/) |
+| Database   | [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) |
+| ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
+| ^^         | [Hololist](https://hololist.net/) |
+| ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
+| ^^         | [VTBs in Bilibili!](https://vtbs.moe/) |
+| Stats      | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /> |
+| ^^         | [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) ==vtstats== |
+| ^^         | [VSTATS](https://www.vstats.jp/) |
+| ^^         | [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /> |
+| ^^         | [TwitchTracker](https://twitchtracker.com/) |
+| ^^         | [Streams Charts](https://streamscharts.com/) |
+| Schedule   | [VTuber Schedule](https://vtuberschedules.com/) |
+| ^^         | [Hololyzer](https://www.hololyzer.net/) |
+| ^^         | [vTubie](https://vtubie.com/) |
+| News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
+| ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
+| ^^         | [Reincar](https://reincar.net/) |
+| Others     | [Mogu](https://mogu.holopirates.moe/) |
+
+## Hololive
+
+| Category      | Name & Link |
+|--------------|------------|
+| **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
+| ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
+| ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
+| ^^           | [Musicdex](https://music.holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Musicdex) |
+| **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |
+| ^^          | [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> |
+| ^^          | [holoplus](https://www.holoplus.com/) |
+| **Stats**   | [Hololive Zone](https://hololive.zone/) |
+| ^^          | [Holotracker](https://trackholo.live/en/) |
+| **Others**  | [Hololive Member Sorter](https://hololive.sorter.my.id/) |
+| ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" /> |
+| ^^          | [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" /> |
+
+## Tools
+
+### User Tools
+
+| Category      | Tools |
+|--------------|------------|
+| **Downloader** | [Chat Downloader](https://github.com/xenova/chat-downloader) |
+| ^^           | [Holoscrape](https://github.com/dannylty/holoscrape) |
+| ^^           | [Twspace-dl](https://github.com/HoloArchivists/twspace-dl) |
+| ^^           | [YouTube Community Tab](https://github.com/HoloArchivists/youtube-community-tab) |
+| ^^           | [yt-dlp](https://github.com/yt-dlp/yt-dlp) |
+| ^^           | [ytarchive](https://github.com/Kethsar/ytarchive) |
+| **Stream**   | [Ragtag Player](https://archive.ragtag.moe/player) |
+| ^^          | [Streamlink](https://streamlink.github.io/index.html) [:gh:](https://github.com/streamlink/streamlink) |
+| ^^          | [Twitch Multi-Streamer](https://multistreamer.lucidnet.app/) |
+
+#### Related resources
+
+| Category      | Name & Link |
+|--------------|------------|
+| **Streamlink** | [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:gh:](https://github.com/streamlink/streamlink-twitch-gui) |
+| **yt-dlp**   | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) |
+| ^^           | [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
+| ^^           | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) |
+| ^^           | [EasyExtractSenchou](https://github.com/ShimamuX/EasyExtractSenchou/) |
+| **ytarchive** | [hoshinova](https://github.com/HoloArchivists/hoshinova) |
+| ^^            | [Youtube Archiving Tutorial](https://github.com/HoloArchivists/hollow_memories) |
+
+- :more: [Video tools](/tools#video-tools)
+
+
+### VTuber tools
+- [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
+- [VTResources](https://vtresources.carrd.co/)
+- [VTuber Assets](https://discord.gg/acU3dFRtvC)
+- [Reincar VTuber Materials](https://reincar.net/sozai/)
+
+## Extensions
+
+- [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:cr:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
+- [HoloSongs](https://github.com/themintchoco/holosongs) [:cr:](https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf)
+- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
+- [HyperChat](https://livetl.app/hyperchat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
+- [Immersive Translate](https://immersivetranslate.com/) [:cr:](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/)
+- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
+- [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
+
+::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
+:::
+
+## Games
+
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" />
+- [AQUARIUM](https://www.entergram.co.jp/aquarium/) :paid:
+- [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :paid:
+- [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
+- [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  
+- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :s:  
+- [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)    
+- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) :paid:
+- [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)  
+- [Nameless](https://sk-jynx.itch.io/nameless) :s:
+- [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash)
+- [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :paid::fjp:
+- [Pebble Jame](https://gioba-games.itch.io/pebble-jame)  
+- [smol Ame](https://moocow-games.itch.io/smol-ame)  
+- [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella)  
+- [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi)  
+- [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)  
+- [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)

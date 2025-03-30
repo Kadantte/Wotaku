@@ -30,6 +30,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: 'NSFW', link: '/nsfw' },
       { text: 'Merch', link: '/merch' },
       { text: 'Scanlation', link: '/scanlation' },
+      { text: 'VTuber', link: '/vtuber' },
       { text: 'Communities', link: '/comms' }
     ]
   },
@@ -181,6 +182,10 @@ export const sidebar: DefaultTheme.Sidebar = [
   {
     text: '<span class="i-lucide:scroll-text"></span> Scanlation',
     link: '/scanlation'
+  },
+  {
+    text: '<span class="i-twemoji-comet"></span> VTuber',
+    link: '/vtuber'
   },
   {
     text: '<span class="i-uil:letter-japanese-a"></span> Japan',
