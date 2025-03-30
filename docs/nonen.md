@@ -571,8 +571,6 @@ ___
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
-- [Averlist](https://averlist.ru/) [:gh:](https://github.com/Averito/Averlist)
-- [Dark Libria](https://darklibria.it/) :strm::mag:
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Gidanime](https://gidanime.tv/)
