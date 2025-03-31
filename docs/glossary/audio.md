@@ -6,7 +6,7 @@ og:
     image: https://files.catbox.moe/ys1mv5.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 
 <GradientCard title="Audio Glossary" description="Audio concepts that you need to know." theme="turquoise" variant="thin"/>

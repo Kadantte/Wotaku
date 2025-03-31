@@ -6,7 +6,7 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Manga Image Editing" description="Image Magick guide for Grayscaling, Leveling, and Optimizing" theme="turquoise" variant="thin"/>
 

@@ -5,7 +5,7 @@ lastUpdated: false
 prev: false
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <script setup>
 import Credits from './.vitepress/theme/components/Contributors.vue'

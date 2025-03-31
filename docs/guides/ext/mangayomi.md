@@ -6,7 +6,7 @@ og:
     image: https://files.catbox.moe/dzy5dt.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Extension Repos" description="Mangayomi, AnymeX & Dartotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
 

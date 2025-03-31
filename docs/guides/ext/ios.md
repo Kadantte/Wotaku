@@ -6,7 +6,7 @@ og:
     image: https://files.catbox.moe/g7li33.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Extension Repos" description="iOS Apps Extension Repos & Guides" theme="turquoise" variant="thin"/>
 

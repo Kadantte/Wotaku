@@ -8,7 +8,7 @@ og:
 
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>
 

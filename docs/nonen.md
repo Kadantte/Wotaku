@@ -7,7 +7,7 @@ og:
     image: https://files.catbox.moe/9wi4ma.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Non-English" description="Otaku resources for other languages/regions." theme="turquoise" variant="thin"/>
 

@@ -7,7 +7,7 @@ og:
     image: https://files.catbox.moe/er0eiz.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Software" description=" Software to help you learn japanese" theme="turquoise" variant="thin"/>
 

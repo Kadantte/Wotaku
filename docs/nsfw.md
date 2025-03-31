@@ -7,7 +7,7 @@ og:
     image: https://files.catbox.moe/nckxof.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise" variant="thin"/>
 

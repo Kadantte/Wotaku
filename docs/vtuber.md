@@ -6,7 +6,7 @@ og:
 
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="VTuber" description="Sui-chan wa~" theme="turquoise" variant="thin"/>
 

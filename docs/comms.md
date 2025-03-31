@@ -4,7 +4,7 @@ description: More great otaku communities!
 customDescription: Explore a wide array of otaku communities! From forums and Discord servers to Subreddits and boards, find your ideal space for anime and manga discussions.
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Communities" description="More great otaku communities!" theme="turquoise" variant="thin"/>
 

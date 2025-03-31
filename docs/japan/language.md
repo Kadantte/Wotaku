@@ -7,7 +7,7 @@ og:
     image: https://files.catbox.moe/er0eiz.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise" variant="thin"/>
 

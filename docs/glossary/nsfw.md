@@ -5,7 +5,7 @@ og:
     image: https://files.catbox.moe/ys1mv5.png
 ---
 
-[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="NSFW Glossary" description="Want to learn what those elusive tags on hentai sites mean? Then this page is for you!" theme="turquoise" variant="thin"/>
 
