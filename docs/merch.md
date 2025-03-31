@@ -80,6 +80,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | Category  | Websites |
 |-----------|----------|
 | **General** | [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::fjp: |
+| ^^        | [Otaku Goods](https://ota-goods.info/) :s::fjp: |
 | ^^        | [Otaku Calendar](https://otakucalendar.com/) |
 | ^^        | [Dengeki Hobby Web](https://hobby.dengeki.com/) |
 | **Anime** | [Anime-DB](https://anime.dbsearch.net/) :fjp: |
@@ -144,8 +145,10 @@ ___
 - [E2046.com](https://www.e2046.com/)
 - [GKLoot Store](https://www.gkloot.com/)
 - [GunDamit.com](https://gundamit.com/)
+- [Hobby Genki](https://hobby-genki.com/en/)
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
+- [Nin-Nin Game](https://www.nin-nin-game.com/en/)
 - [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
 - [Show.Z Store](https://showzstore.com/)
 ___
