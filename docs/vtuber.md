@@ -22,7 +22,6 @@ og:
 | ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
 | ^^         | [Hololist](https://hololist.net/) |
 | ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
-| ^^         | [VTBs in Bilibili!](https://vtbs.moe/) |
 | Stats      | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /> |
 | ^^         | [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) ==vtstats== |
 | ^^         | [VSTATS](https://www.vstats.jp/) |
@@ -35,6 +34,8 @@ og:
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
 | ^^         | [Reincar](https://reincar.net/) |
+| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) [:gh:](https://github.com/dd-center/vtbs.moe/) |
+| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
 ## Hololive
@@ -140,8 +141,9 @@ og:
 |------------------------------------------------------------|--------|--------------------|------------|-----|
 | [Bibbidiba fan game](https://store.steampowered.com/app/3428800/Bibbidiba_fan_game) | Free   | Hoshimachi Suisei | shadow     | holo Indie |
 | [FLARE NUINUI QUEST](https://store.steampowered.com/app/3081830/FLARE_NUINUI_QUEST) | $4.49  | Shiranui Flare    | sulpx      | holo Indie |
-| [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx    ||
 | [HoloRun](https://store.steampowered.com/app/3389760/HoloRun/) | $2.99  | Hololive          | Pixfox     | holo Indie |
+| [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx    ||
+| [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba      ||
 | [Miko in Maguma](https://store.steampowered.com/app/2877240/Miko_in_Maguma/) | Free   | Sakura Miko      | frog blend | holo Indie |
 
 ### Puzzle
@@ -150,7 +152,6 @@ og:
 |----------------------------------------------------------------|--------|--------------------|------------|-----|
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    ||
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   ||
-| [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba      ||
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      ||
 | [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     ||
 | [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     ||
