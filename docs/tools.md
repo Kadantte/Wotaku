@@ -8,6 +8,8 @@ og:
 
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Tools" description="Various tools and extensions to enhance your experience." theme="turquoise" variant="thin"/>
 
 ![](/banner/phone.webp)

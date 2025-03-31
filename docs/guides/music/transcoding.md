@@ -6,6 +6,8 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Transcoding Audio" description="Basic transcoding guide for audio file using foobar2000" theme="turquoise" variant="thin"/>
 
 

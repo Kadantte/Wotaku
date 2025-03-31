@@ -8,6 +8,8 @@ og:
 
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>
 
 ![](/banner/comms.webp)

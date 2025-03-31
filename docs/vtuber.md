@@ -6,6 +6,8 @@ og:
 
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="VTuber" description="Sui-chan wa~" theme="turquoise" variant="thin"/>
 
 ## General

@@ -6,6 +6,8 @@ og:
     image: https://files.catbox.moe/dzy5dt.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Extension Repos" description="Mangayomi, AnymeX & Dartotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
 
 [**Mangayomi**](https://github.com/kodjodevf/mangayomi) extensions are supported by [**AnymeX**](https://anymex.vercel.app/) and [**Dartotsu**](https://github.com/aayush2622/Dartotsu).

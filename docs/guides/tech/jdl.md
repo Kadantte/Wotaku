@@ -5,6 +5,8 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="JDL AD Removal" description="Remove banner & Pop-up ads from JDL2" theme="turquoise" variant="thin"/>
 
 JDownloader is a free download manager, but it comes with banner ads and other annoyances. In this guide you will learn how to remove them.

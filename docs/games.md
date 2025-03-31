@@ -7,6 +7,8 @@ og:
     image: https://files.catbox.moe/vgbs7u.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Games" description="Everything Game-related in one page!" theme="turquoise" variant="thin"/>
 
 

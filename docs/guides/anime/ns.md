@@ -5,6 +5,8 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Network Stream" description="Network streaming DDL, IRC and Torrent video files." theme="turquoise" variant="thin"/>
 
 

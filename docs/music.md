@@ -7,6 +7,8 @@ og:
     image: https://files.catbox.moe/s32qh2.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Music" description="Everything Music-related in one page!" theme="turquoise" variant="thin"/>
 
 <br>

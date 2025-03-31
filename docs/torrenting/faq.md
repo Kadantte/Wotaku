@@ -5,6 +5,8 @@ og:
     image: https://files.catbox.moe/d3zs1e.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="FAQs" description="Common questions about torrenting" theme="turquoise" variant="thin"/>
 
 

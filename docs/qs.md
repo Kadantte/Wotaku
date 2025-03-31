@@ -5,6 +5,8 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 outline: [2,3]
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Quick Start" description="The basic things to get you started." theme="turquoise" variant="thin"/>
 
 ::: tip Quick Tip

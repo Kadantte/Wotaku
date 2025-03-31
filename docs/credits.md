@@ -5,6 +5,8 @@ lastUpdated: false
 prev: false
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <script setup>
 import Credits from './.vitepress/theme/components/Contributors.vue'
 </script>

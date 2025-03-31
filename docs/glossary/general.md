@@ -5,6 +5,8 @@ og:
     image: https://files.catbox.moe/ys1mv5.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Wotaku Glossary" description="Want to increase your otaku knowledge? Look for no further!" theme="turquoise" variant="thin"/>
 
 <br>

@@ -5,6 +5,8 @@ og:
     image: https://files.catbox.moe/d3zs1e.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="qBittorrent" description="Various how-tos for qBittorrent" theme="turquoise" variant="thin"/>
 
 ## RSS Feed

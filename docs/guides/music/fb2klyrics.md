@@ -3,6 +3,9 @@ exclude: true
 og:
     image: https://files.catbox.moe/l2g45x.png
 ---
+
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Foobar2000 Synced Lyrics" theme="turquoise" variant="thin"/>
 
 

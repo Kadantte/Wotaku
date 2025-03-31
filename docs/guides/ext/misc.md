@@ -6,6 +6,8 @@ og:
     image: https://files.catbox.moe/dzy5dt.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Extension Repos" description="Miscellaneous Extension Repos & Guides" theme="turquoise" variant="thin"/>
 
 ## Cloudstream

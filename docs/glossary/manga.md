@@ -6,6 +6,8 @@ og:
     image: https://files.catbox.moe/ys1mv5.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Manga Glossary" description="Manga portion of the Wotaku glossary!" theme="turquoise" variant="thin"/>
 
 

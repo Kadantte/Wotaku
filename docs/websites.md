@@ -5,6 +5,8 @@ customDescription: Discover the best websites for anime, manga, novels & more.
 outline: 1
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Websites" description="Online resources for anime, manga, novels and more." theme="turquoise" variant="thin"/>
 
 ![](/banner/wanime.webp)

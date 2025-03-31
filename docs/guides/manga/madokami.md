@@ -6,6 +6,8 @@ og:
     image: https://files.catbox.moe/cjn5p0.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>
 
 <br>

@@ -6,6 +6,8 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Digital Comic Info" description="Information about digital comic publishers and quality." theme="turquoise" variant="thin"/>
 
 <br>

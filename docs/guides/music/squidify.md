@@ -5,6 +5,8 @@ og:
     image: https://files.catbox.moe/q4b9bu.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Squidify" description="Guide on how to use squidify on various devices" theme="turquoise" variant="thin"/>
 
 

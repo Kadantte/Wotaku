@@ -7,6 +7,8 @@ og:
   image: https://files.catbox.moe/b7hmee.png
 ---
 
+[![](/asset/ad.png)](https://www.youtube.com/watch?v=cw8tuNZjIf4)
+
 <GradientCard title="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
 
 :::details Important Information
