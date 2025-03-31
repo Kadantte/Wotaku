@@ -48,11 +48,15 @@ og:
 | **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |
 | ^^          | [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> |
 | ^^          | [holoplus](https://www.holoplus.com/) |
-| **Stats**   | [Hololive Zone](https://hololive.zone/) |
+| **Stats**   | [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:gh:](https://github.com/kunesj/holo-spotify-stats) |
+| ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:gh:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
+| ^^          | [HoloChatStats](https://beta.holochatstats.info/) [:gh:](https://github.com/mipacd/HoloChatStats) |
+| ^^          | [Hololive Zone](https://hololive.zone/) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
+| **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
+| ^^          | [hololive TODAY](https://hololivetoday.com/)  |
 | **Others**  | [Hololive Member Sorter](https://hololive.sorter.my.id/) |
-| ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" /> |
-| ^^          | [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" /> |
+| ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) |
 
 ## Tools
 
