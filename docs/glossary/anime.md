@@ -86,7 +86,7 @@ Formatting of a storyboard can change depending on the studio and director.
 ### Genga
 Genga means tie-down drawings or raw keyframes, drawn by genga artists. The drawn genga goes though a multi-step process.
 
-![](/glossary/anime/genga.webp)
+![](/diagram/genga.svg)
 
 Genga generally goes for important details of a scene. It can be just the character (or part of the character) or the character and their surrounding if the character is interacting with it. Genga doesn't generally include frame in-betweens, so it will be rough in motion by nature.
 
