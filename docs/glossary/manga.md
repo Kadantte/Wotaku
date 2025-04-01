@@ -233,7 +233,7 @@ If it's due to artist or publisher's side, it's not really fixable without redra
 - Or using a higher resolution and/or bigger display
 
 
-![](/glossary/file/mf.png)
+![](/diagram/manfile.svg)
 ## File Naming
 
 ### Publisher

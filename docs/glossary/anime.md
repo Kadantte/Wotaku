@@ -122,13 +122,13 @@ More cleaned up frames, done by key animators. Dougas are way more completed and
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/D0tux0QoeUE" frameborder="0" allowfullscreen></iframe></div>
 
-![Edited version of flowchart by Dong Chang](/glossary/anime/anipro.svg)
+![Edited version of flowchart by Dong Chang](/diagram/anipro.svg)
 
 Mentioned [Kikakusho / Pitch package](https://wiki.evageeks.org/Resources:Neon_Genesis_Evangelion_Proposal_(Translation)#Page_2_(Synopsis_and_Staff)) of Neon Genesis Evangelion.
 
 :::
 
-![](/glossary/file/af.png)
+![](/diagram/anifile.svg)
 
 ## File Naming
 

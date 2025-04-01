@@ -79,7 +79,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ::: details Tachiyomi forks flowchart
 
-![](/asset/tachi.svg)
+![](/diagram/tachi.svg)
 
 :::
 
